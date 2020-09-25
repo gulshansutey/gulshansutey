@@ -1,4 +1,4 @@
- <h1 align="center">Hello World!</h1>
+# Hello World! 
 <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" width="100%" height="200" />
 <p align="left">
 <code>
